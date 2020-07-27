@@ -1,0 +1,26 @@
+
+div {
+  padding-top: 30px;
+  padding-right: 0px;
+  padding-bottom: 50px;
+  padding-left: 190px;
+  width:110%;height:105%;
+
+}
+.vicky {
+  opacity: 0.7;
+  width:35%;height:35%;
+
+}
+.leaf {
+  width:52.5%;height:52.5%;
+
+}
+
+.name {
+  position: absolute;
+ top: 50%;
+ left: 50%;
+ color: white;
+ font-family: "century gothic";
+}
