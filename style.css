@@ -4,7 +4,7 @@ div {
   padding-right: 0px;
   padding-bottom: 50px;
   padding-left: 190px;
-  width:110%;height:105%;
+
 
 }
 .vicky {
@@ -16,11 +16,82 @@ div {
   width:52.5%;height:52.5%;
 
 }
+.ii{
+  position: relative;
+  top: -100%;
+  left: 35%;
+  width:10%;height: 7%;
 
+}
 .name {
-  position: absolute;
- top: 50%;
- left: 50%;
+ position: absolute;
+ top: 45%;
+ left: 47%;
  color: white;
+ font-size: 30px;
  font-family: "century gothic";
+}
+.details {
+ position: absolute;
+ top: 55%;
+ left: 40%;
+ color: white;
+ font-size: 15px;
+ font-family: "century gothic";
+}
+.linkedin{
+  width:5%;height:5%;
+}
+.insta{
+  position: relative;
+  left: 15%;
+  width:5%;height:5%;
+}
+.contact{
+  position: relative;
+  left: 60%;
+  width:7%;height:7%;
+}
+.hacker{
+  position: relative;
+  left: 50%;
+  width:5%;height:5%;
+}
+.git{
+  position: relative;
+  left: 25%;
+  width:5%;height:5%;
+}
+.footer{
+  position: relative;
+  top: 100%;
+  opacity: 0.3;
+  background-color: grey ;
+}
+.gmail{
+  position: relative;
+  left: 25%;
+  width:5%;height:5%;
+}
+
+.painter {
+  opacity: 0.7;
+  width:25%;height:25%;
+}
+
+
+.painterr{
+  position: absolute;
+  right: 15%;
+
+}
+
+.content{
+  position: absolute;
+  opacity: 0.7;
+  background-color: #FF8301;
+  left: 33%;
+}
+.textt{
+  left: 10%;
 }
