@@ -1,0 +1,50 @@
+<div class="about">
+  <div class="painterr">
+  <img class="painter" src="images\painter.jpg">
+</div>
+<div class="content">
+  <br>
+  <br>
+  <br>
+</div>
+<div class="textt">
+  <p>Vigneshwarane A, Electronics and Communication Engineer.
+  Training and Palcement Representative.</p>
+</div>
+
+</div>
+
+
+.painter {
+  opacity: 0.7;
+  width:25%;height:25%;
+}
+
+
+.painterr{
+  position: absolute;
+  right: 15%;
+
+}
+
+.content{
+
+  opacity: 0.7;
+  background-color: #FF8301;
+  width:500px;
+  height:100px;
+
+
+}
+.textt{
+  position: absolute;
+  bottom: 50%;
+}
+
+<!--<div class="footer">
+  <img class="gmail" src="images\gmail.png"></a>
+</div>
+-->
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
+</nav>

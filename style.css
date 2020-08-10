@@ -74,24 +74,56 @@ div {
   width:5%;height:5%;
 }
 
-.painter {
-  opacity: 0.7;
-  width:25%;height:25%;
-}
-
-
-.painterr{
+.painter{
   position: absolute;
-  right: 15%;
-
-}
-
-.content{
-  position: absolute;
+  left:12%;
+  width: 25%;
   opacity: 0.7;
-  background-color: #FF8301;
-  left: 33%;
 }
 .textt{
-  left: 10%;
+  padding-left:30px;
+  padding-right: 50px;
+  position: absolute;
+  right: 10%;
+  top: 115%;
+  background-color: #ffa00a;
+  opacity: 0.8;
+}
+.skills{
+  position: absolute;
+
+
+}
+#love{
+  font-family: century gothic;
+  font-size: 30px;
+  font-style: bold;
+  color: #f5344f;
+  letter-spacing: 0.5px;
+}
+.listlove{
+  font-size: 20px;
+  color: black;
+
+}
+.certificates{
+  position: absolute;
+  left: 35%;
+}
+.cert{
+  font-size: 30px;
+  color: #00ebb3;
+  letter-spacing: 0.5px;
+
+}
+.projects{
+  position: absolute;
+  left:-1%;
+
+}
+.proj{
+  font-size: 30px;
+  color: #968afc;
+  letter-spacing: 0.5px;
+
 }
